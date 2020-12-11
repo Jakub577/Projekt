@@ -1,0 +1,212 @@
+#menu {
+   height: 51px;
+
+    position: fixed;
+    width: 101%;
+    margin-top: -8px;
+    left: -10px;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+        
+}
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ background-color: rgba(0, 0, 0, 0.897);
+}
+    
+li {
+ float: left;
+}
+li a:hover {
+  border-bottom: rgb(141, 235, 188) 4px solid  ;
+  border-radius: 9%;
+}
+.input-nawigacja{
+   padding: 6px;
+   border-radius: 20%;
+   float: right;
+}
+#nawigacja-input{
+    padding: 9px;
+    padding-right: 100px;
+}
+.ikonka{
+    border-left: #ffffff 2px solid  ;
+    color: white;
+    padding: 14px;
+}
+.ikonka1{
+    padding: 8px;
+    color: white;
+    font-size: 39px;
+   padding-right: 20px;
+     
+}
+#zdj1{
+    width: 20px;
+    height: 20px;
+}
+#logo-zdj{
+    width: 57px;
+    height: 37px;
+
+      
+}
+#zdj-logo{
+    width: 70px;
+    height: 50px;
+    margin-left: 29px;
+}
+.tło-d{
+    height: 90%;
+    width: 100%;
+
+    top: 50px;
+    
+}
+.tocos{
+    background-color: rgb(129, 129, 129);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border: rgba(0, 0, 0, 0.199) groove 35px;
+    color: white;
+}
+
+.wymiark1{
+    height: 300px;
+    width: 500px;
+    margin-top: 200px;
+}
+
+.obrazek1:hover{
+    animation-name: color1;
+    animation-duration: 1000ms;
+    animation-fill-mode: both;
+    
+}
+.obrazek2:hover{
+    animation-name: color1;
+    animation-duration: 1000ms;
+    animation-fill-mode: both;
+
+}
+.obrazek3:hover{
+
+    animation-name: color1;
+    animation-duration: 1000ms;
+    animation-fill-mode: both;
+
+
+}
+@keyframes color1 {
+    form {
+        width: 100%;
+        height: 100%;
+    }
+    to {
+        transform: scale(0.9);
+    }
+}      
+body{
+    background-color: rgba(0, 0, 0, 0.600);
+}
+.tytuły{
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    margin-left: 20px;
+    font-family: cursive;
+    padding: 5px;
+}
+#puste{
+    height: 250px;
+}
+.koniecówka{
+    background-color: rgba(243, 41, 41, 0.75);
+    height: 400px;
+    box-shadow: 0px 5px 2em #333;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#tło-a{
+    height: 60%;
+    width: 100%px;
+    margin-left: 25%;
+}
+.ikonki12345{
+    padding-left: 75%;
+    font-size: 50px;
+}
+.dwa{
+    padding-left: 33%;
+}
+.ikona1{
+    color: blue;
+}
+.ikona3{
+    color: red;
+}
+.tło-12{
+    height: 120%;
+    width: 100%;
+
+    top: 50px;
+    
+}
+.lolol{
+margin: 1%;
+}
+.joł{
+    width: 100%;
+
+
+}
+.tka{
+    color: white;
+    padding: 40px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#zdj9999{
+    width: 500px;
+    height: 500px;
+    padding: 3%;
+}
+.wymiary9999{
+    height: 100%;
+    width: 100%;
+}
+#puste2{
+    padding: 20px;
+}
+.morde{
+    width: 100%;
+    height: 90%;
+}
+.postacie1{
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+}
+.skillepostaci{
+    padding: 90px;
+    padding-left: 11%;
+    width: 100%;
+}
+.opisskili1{
+    margin-left: 110px;
+    margin-right: 110px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.jakastam6{
+    font-size: 40px;
+}

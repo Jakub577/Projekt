@@ -1,0 +1,118 @@
+.tocos{
+    background-color: rgb(129, 129, 129);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border: rgba(0, 0, 0, 0.199) groove 35px;
+    color: white;
+}
+#menu {
+ height: 51px;
+
+ position: fixed;
+ width: 101%;
+ margin-top: -8px;
+ left: -10px;
+ }
+ li a {
+     display: block;
+     color: white;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+     
+ }
+ ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+     background-color: rgba(0, 0, 0, 0.897);
+ }
+ 
+ li {
+     float: left;
+ }
+ li a:hover {
+     border-bottom: rgb(141, 235, 188) 4px solid  ;
+     border-radius: 9%;
+ }
+ .input-nawigacja{
+     padding: 6px;
+     border-radius: 20%;
+     float: right;
+ }
+ #nawigacja-input{
+     padding: 9px;
+     padding-right: 100px;
+ }
+ .ikonka{
+     border-left: #ffffff 2px solid  ;
+     color: white;
+     padding: 14px;
+ }
+.opisskili1{
+    padding-bottom: 100px;
+    padding-top: 100px;
+    margin-left: 110px;
+    margin-right: 110px;
+    font-size: 30px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+ .ikonka1{
+     padding: 8px;
+     color: white;
+     font-size: 39px;
+    padding-right: 20px;
+      
+ }
+ #logo-zdj{
+     width: 57px;
+     height: 37px;
+
+       
+}
+#zdj-logo{
+    width: 70px;
+    height: 50px;
+    margin-left: 29px;
+}
+.tło-12{
+  height: 120%;
+  width: 100%;
+ 
+   top: 50px;
+     
+}
+body{
+    background-color: rgba(0, 0, 0, 0.600);
+}
+.koniecówka{
+    background-color: rgba(243, 41, 41, 0.75);
+    height: 400px;
+    box-shadow: 0px 5px 2em #333;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.ikona1{
+    color: blue;
+    margin-left: 73%;
+    font-size: 50px;
+}
+.ikona3{
+    color: red;
+    font-size: 25px;
+}
+.dwa{
+    padding-left: 33%;
+}
+#tło-a{
+    height: 240px;
+    width: 370px;
+    margin-left: 34%;
+}
+#ingo{
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 40px;
+}
